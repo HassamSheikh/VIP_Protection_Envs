@@ -18,7 +18,7 @@ If you used this environment for your experiments or found it helpful, consider 
 Environments in this repo:
 <pre>
 @INPROCEEDINGS{8753973,  
-author={H. U. {Sheikh} and M. {Razghandi} and L. {Boloni}},  
+author={H. U. Sheikh and M. Razghandi and L. Boloni},  
 booktitle={2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC)},  
 title={Learning Distributed Cooperative Policies for Security Games via Deep Reinforcement Learning},  
 year={2019},  

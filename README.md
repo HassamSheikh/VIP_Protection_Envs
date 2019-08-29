@@ -7,7 +7,7 @@ Environments for VIP protection problem used in the papers [Universal Policies t
 
 - Known dependencies: Python (3.5.4), OpenAI gym (0.10.2), numpy (1.14.5)
 
-![Random Landmark](/multiagent/images/random_landmark.gif)
+![Shopping Mall](/multiagent/images/shopping_mall.gif)
 
 
 
